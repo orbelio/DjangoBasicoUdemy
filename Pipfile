@@ -6,8 +6,11 @@ name = "pypi"
 [packages]
 django = "==2.1"
 pytz = "==2018.5"
+pylint = "*"
 
 [dev-packages]
+"pep8" = "*"
+"flake8" = "*"
 
 [requires]
 python_version = "3.6"
