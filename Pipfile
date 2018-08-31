@@ -1,5 +1,5 @@
 [[source]]
-url = "http://binario.caixa:8081/repository/pypi-repo/simple"
+url = ""
 verify_ssl = false
 name = "pypi"
 
